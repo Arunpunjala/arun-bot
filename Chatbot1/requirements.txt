@@ -1,0 +1,6 @@
+flask
+transformers
+tensorflow
+torch
+sentencepiece
+gunicorn
